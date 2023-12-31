@@ -1,0 +1,38 @@
+{
+  "name": "spotify-clone",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "format": "prettier --write src/",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^5.0.2",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "uniqolor": "^1.1.1",
+    "vite": "^5.0.10",
+    "vue": "^3.3.11",
+    "vue-material-design-icons": "^5.2.0",
+    "vue-router": "^4.2.5"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.3.3",
+    "@vue/eslint-config-prettier": "^8.0.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.2.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-prettier": "^5.1.2",
+    "eslint-plugin-vue": "^9.17.0",
+    "gh-pages": "^6.1.1",
+    "postcss": "^8.4.32",
+    "prettier": "^3.0.3",
+    "tailwindcss": "^3.4.0"
+  }
+}

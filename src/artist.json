@@ -1,0 +1,88 @@
+{
+    "name": "Blue Slide Park",
+    "albumCover": "/images/albumCovers/macmilleralbum.jpg",
+    "releaseYear": "2011",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "English Lane",
+            "path": "/songs/english-lane.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Blue Slide Park",
+            "path": "/songs/blue-slide-park.mp3"
+        },
+        {
+            "id": 3,
+            "name": "Party On Fifth Ave",
+            "path": "/songs/party-on-5th-ave.mp3"
+        },
+        {
+            "id": 4,
+            "name": "PA Nights",
+            "path": "/songs/pa-nights.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Frick Park Market",
+            "path": "/songs/frick-park-market.mp3"
+        },
+        {
+            "id": 6,
+            "name": "Smile Back",
+            "path": "/songs/smile-back.mp3"
+        },
+        {
+            "id": 7,
+            "name": "Under The Weather",
+            "path": "/songs/under-the-weather.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Of The Soul",
+            "path": "/songs/of-the-soul.mp3"
+        },
+        {
+            "id": 9,
+            "name": "My Team",
+            "path": "/songs/my-team.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Up All Night",
+            "path": "/songs/up-all-night.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Loitering",
+            "path": "/songs/loitering.mp3"
+        },
+        {
+            "id": 12,
+            "name": "Hole In My Pocket",
+            "path": "/songs/hole-in-my-pocket.mp3"
+        },
+        {
+            "id": 13,
+            "name": "Diamonds & Gold",
+            "path": "/songs/diamonds-and-gold.mp3"
+        },
+        {
+          "id": 14,
+          "name": "Missed Calls",
+          "path": "/songs/missed-calls.mp3"
+
+        },
+        {
+          "id": 15,
+          "name": "Man In The Hat",
+          "path": "/songs/man-in-the-hat.mp3"
+        },
+        {
+          "id": 16,
+          "name": "One Last Thing",
+          "path": "/songs/one-last-thing.mp3"
+        }
+    ]
+}
