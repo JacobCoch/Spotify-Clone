@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.developer-icon {
+  margin-left: 1rem;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.developer {
+  position: absolute;
+
+  right: 12.5rem;
+}
