@@ -7,6 +7,7 @@
   import ChevronUp from 'vue-material-design-icons/ChevronUp.vue';
   import { RouterLink, RouterView } from 'vue-router'
 
+
   import MenuItem from './components/MenuItem.vue';
   import MusicPlayer from './components/MusicPlayer.vue'
   import { useSongStore } from './stores/song'
@@ -58,6 +59,20 @@
                     <ChevronUp v-else fill-color="#FFFFFF" :size="25" @click="openMenu = false" />
                 </div>
             </button>
+
+            <div className='developer'>
+                  <a
+                    href='https://www.jacobcoch.com'
+                    className='developer-link'
+                    target='_blank'
+                    rel='noreferrer'>
+                    <img
+                      src='./assets/developer_icon.gif'
+                      alt='developer-icon'
+                      className='developer-icon'
+                    />
+                  </a>
+                </div>
 
             <span
 v-if="openMenu"
